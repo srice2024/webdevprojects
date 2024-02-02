@@ -1,0 +1,13 @@
+body{
+    background-color: black;    
+}
+.poster {
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    margin-left: 25%;
+    width: 50%;
+}
+.image{
+    border: 5px solid white;
+}
